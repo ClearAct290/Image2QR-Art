@@ -1,6 +1,6 @@
 # QR Image Forge
 <br>
-<img width="4440" height="4440" alt="qr_image_v40" src="https://github.com/user-attachments/assets/8e8d02d3-4a0b-4d1d-b21a-f6fe8123b770" width="360" height="360" />
+<img width="4440" height="4440" alt="qr_image_v40" src="https://github.com/user-attachments/assets/8e8d02d3-4a0b-4d1d-b21a-f6fe8123b770" width="360px" height="360px" />
 <br>
 **A valid-QR image approximation experiment** by **clearact290**.
 
