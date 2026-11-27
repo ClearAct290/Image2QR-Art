@@ -2,6 +2,7 @@
 <br>
 <img width="4440" height="4440" alt="qr_image_v40" width="360px" height="360px" src="https://github.com/user-attachments/assets/8e8d02d3-4a0b-4d1d-b21a-f6fe8123b770"/>
 <br>
+
 **A valid-QR image approximation experiment** by **clearact290**.
 
 QR Image Forge converts a selected image into a black-and-white dithered target, then builds and optimizes a real QR Code whose black/white modules resemble that target as closely as possible.
